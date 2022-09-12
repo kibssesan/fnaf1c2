@@ -1,5 +1,5 @@
 # fnaf1-c2
-remake de Fnaf 1 feito no Construct 2
+O primeiro jogo da franquia de fnaf feita do zero na engine Construct 2
 
 Atualmente sendo desenvolvido por: Kibs e thegamerman88
 
