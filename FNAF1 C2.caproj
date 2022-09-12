@@ -767,14 +767,6 @@
                 </animation>
             </animation-folder>
         </object-type>
-        <object-type name="exclamação_new" sid="297438424976440">
-            <plugin id="Sprite" />
-            <animation-folder>
-                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="251260036031246" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
-                </animation>
-            </animation-folder>
-        </object-type>
         <object-type name="Browser" sid="295469121238259">
             <plugin id="Browser" />
         </object-type>
